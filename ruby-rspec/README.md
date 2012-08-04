@@ -3,7 +3,7 @@ Ruby with RSpec
 
 How to run a test
 ---
-`$ gem install rspec`
+`$ gem install rspec
 
 `$ rspec spec/calculator_spec.rb`
 
