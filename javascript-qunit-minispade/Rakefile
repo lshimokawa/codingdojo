@@ -1,0 +1,15 @@
+abort 'Please use Ruby 1.9 to run the tests!' if RUBY_VERSION !~ /^1\.9/
+
+require 'bundler/setup'
+
+def pipeline
+  require 'rake-pipeline'
+  Rake::Pipeline::Project.new('Assetfile')
+end
+
+desc 'Build project into lib/dist'
+task :dist do
+  puts 'Building project ...'
+  pipeline.invoke
+  puts 'Done.'
+end
