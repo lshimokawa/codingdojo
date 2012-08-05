@@ -7,3 +7,4 @@ Contributors
 ---
 * coffeescript-jasmine: [frodsan](https://github.com/frodsan)
 * ruby-minitest-spec: [florent2](https://github.com/florent2)
+* php inicio: [cordoval](https://github.com/cordoval)
