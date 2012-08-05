@@ -13,3 +13,25 @@ task :dist do
   pipeline.invoke
   puts 'Done.'
 end
+
+desc "Run JavaScript tests with phantomjs"
+task :test do
+  unless system('which phantomjs > /dev/null 2>&1')
+   abort 'PhantomJS is not installed. Download from http://phantomjs.org.'
+  end
+
+  system 'rake dist'
+
+  require 'colored'
+
+  cmd = 'phantomjs lib/qunit/run-qunit.js'
+  cmd << " \"file://localhost#{File.dirname(__FILE__)}/lib/index.html\""
+
+  system cmd
+
+  if $?.success?
+    puts 'Tests Passed'.green
+  else
+    puts 'Tests Failed'.red
+  end
+end
