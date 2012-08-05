@@ -1,5 +1,7 @@
 require('calculator');
 
+module('calculator');
+
 test('return 0 on empty string', function() {
-  equal(0, calculator.add(''));
+  equal(calculator.add(''), 1);
 });
