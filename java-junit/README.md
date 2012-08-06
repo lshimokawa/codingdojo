@@ -1,14 +1,11 @@
-Java with JUnit
-===
+# Java with JUnit
 
-How to run a test
----
-You need maven installed: http://maven.apache.org/download.html
+## How to run a test
+First download and install [Maven](http://maven.apache.org/download.html).
 
+Then run: 
 `$ mvn test`
 
-Documentation
----
-http://junit.sourceforge.net/
-
-http://maven.apache.org/
+# Documentation
+* [Maven](http://maven.apache.org/)
+* [JUnit](http://junit.sourceforge.net/)

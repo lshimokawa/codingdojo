@@ -1,10 +1,7 @@
-JavaScript with Jasmine
-===
+# JavaScript with Jasmine
 
-How to run a test
----
+## How to run a test
 Open index.html in a browser
 
-Documentation
----
-http://pivotal.github.com/jasmine/
+## Documentation
+* [Jasmine](http://pivotal.github.com/jasmine/)

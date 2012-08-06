@@ -1,10 +1,7 @@
-Ruby with minitest/unit
-===
+# Ruby with minitest/unit
 
-How to run a test
----
+# How to run a test
 `$ ruby test/calculator_test.rb`
 
-Documentation
----
-https://github.com/seattlerb/minitest
+# Documentation
+* [minitest](https://github.com/seattlerb/minitest)

@@ -1,12 +1,9 @@
-Ruby with RSpec
-===
+# Ruby with RSpec
 
-How to run a test
----
+# How to run a test
 `$ gem install rspec`
 
 `$ rspec spec/calculator_spec.rb`
 
-Documentation
----
-http://rspec.info/
+# Documentation
+* [RSpec](http://rspec.info/)
