@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>QUnit + Phantomjs + Minispade basic example</title>
+  <link rel="stylesheet" href="qunit/qunit.css" />
+  <script src="qunit/qunit.js" /></script>
+  <script src="minispade.js" /></script>
+  <script src="dist/app.js" /></script>
+  <script src="dist/tests.js" /></script>
+</head>
+<body>
+  <div id="qunit"></div>
+  <script type="text/javascript">
+    for(moduleName in minispade.modules) {
+      if (!minispade.modules.hasOwnProperty(moduleName)) { continue; }
+
+      match = moduleName.match(/_test/g);
+      if(match) {
+        minispade.require(moduleName);
+      }
+    }
+  </script>
+</body>
+</html>
