@@ -15,8 +15,7 @@
     for(moduleName in minispade.modules) {
       if (!minispade.modules.hasOwnProperty(moduleName)) { continue; }
 
-      match = moduleName.match(/_test/g);
-      if(match) {
+      if(moduleName.match(/_test/g)) {
         minispade.require(moduleName);
       }
     }
