@@ -1,4 +1,4 @@
-# Running JavaScript tests with QUnit, Minispade and Phantomjs
+# Run QUnit Tests from Terminal with Phantomjs and Minispade
 
 ## Highlights:
 
@@ -27,7 +27,7 @@ Now, you can run your tests with:
 rake test # or just rake :)
 ```
 
-# Minispade FTW!
+## Minispade FTW!
 
 [Minispade](https://github.com/wycats/minispade) is a tiny library to manage
 your JavaScript dependencies. It brings the ruby's require power to JavaScript.
