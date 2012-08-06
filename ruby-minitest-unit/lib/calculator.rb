@@ -1,7 +1,5 @@
-class Calculator
-
-  def add input
+module Calculator
+  def self.add input
     0
   end
-
 end
