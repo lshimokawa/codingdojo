@@ -1,7 +1,7 @@
 # Ruby with minitest/unit
 
-# How to run a test
+## How to run a test
 `$ ruby test/calculator_test.rb`
 
-# Documentation
+## Documentation
 * [minitest](https://github.com/seattlerb/minitest)

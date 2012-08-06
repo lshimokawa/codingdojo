@@ -1,7 +1,7 @@
 # Ruby with minitest/spec
 
-# How to run a test
+## How to run a test
 `$ ruby spec/calculator_spec.rb`
 
-# Documentation
+## Documentation
 * [minitest](https://github.com/seattlerb/minitest)
