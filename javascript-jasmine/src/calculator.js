@@ -1,7 +1,9 @@
-function Calculator() {
+var calculator = (function() {
   "use strict";
 
-  this.add = function(input) {
-    return 0;
+  return {
+    add: function(input) {
+      return 0;
+    }
   };
-}
+})();
