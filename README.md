@@ -19,3 +19,4 @@ Create the first test and implementation of the [String Calculator Kata](http://
 
 * coffeescript-jasmine, javascript-qunit-minispade: [frodsan](https://github.com/frodsan)
 * ruby-minitest-spec: [florent2](https://github.com/florent2)
+* php-phpunit: [adrianmoya](https://github.com/adrianmoya)
