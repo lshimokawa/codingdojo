@@ -5,7 +5,9 @@
 `$ phpunit tests`
 
 You  need to have phpunit installed. 
+
 `$ pear config-set auto_discover 1`
+
 `$ pear install pear.phpunit.de/PHPUnit`
 
 # Documentation
