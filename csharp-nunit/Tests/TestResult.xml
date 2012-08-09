@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\Tests.nunit" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-08-08" time="21:17:48">
+  <environment nunit-version="2.6.1.12217" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit" machine-name="JUANJO-LAPTOP" user="JuanJose.Fuchs" user-domain="SERIVA" />
+  <culture-info current-culture="es-PE" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\Tests.nunit" executed="True" result="Success" success="True" time="0.106" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\Tests.dll" executed="True" result="Success" success="True" time="0.080" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.080" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CalculatorTests" executed="True" result="Success" success="True" time="0.079" asserts="0">
+                <results>
+                  <test-case name="Tests.CalculatorTests.AddShouldReturnZeroWithEmptyString" executed="True" result="Success" success="True" time="0.058" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,1 @@
+"packages/NUnit.Runners.2.6.1/tools/nunit.exe" "Tests/Tests.nunit" /run

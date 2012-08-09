@@ -1,0 +1,20 @@
+==============================================================
+Log for test [EqualTo19] run at agent [localhost:8080]
+
+Output:
+==============================================================
+Log for test [ParallelTest_B] run at agent [localhost:8080]
+
+Output:
+==============================================================
+Log for test [ParallelTest_A] run at agent [localhost:8080]
+
+Output:
+==============================================================
+Log for test [ParallelTestWithBarriersA] run at agent [localhost:8080]
+
+Output:
+==============================================================
+Log for test [ParallelTestWithBarriersB] run at agent [localhost:8081]
+
+Output:
