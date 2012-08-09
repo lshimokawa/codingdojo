@@ -1,5 +1,3 @@
-
-
 class Calculator():
 
     def add(self, input):
