@@ -1,7 +1,7 @@
 # Python with unittest
 
-## Install nose
-`$ pip install nose`
+## Installation
+`$ pip install nose` or `easy_install nose`
 
 ## How to run a test
 `$ nosetests tests`
