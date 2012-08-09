@@ -9,9 +9,11 @@ Some sites to find Code Katas for a Coding Dojo:
 * [12meses12katas](https://github.com/12meses12katas)
 
 # Contributors
-* coffeescript-jasmine, javascript-qunit-minispade: [frodsan](https://github.com/frodsan)
-* ruby-minitest-spec: [florent2](https://github.com/florent2)
-* php-phpunit: [adrianmoya](https://github.com/adrianmoya)
+* [lshimokawa](https://github.com/lshimokawa): javascript-jasmine, javascript-qunit, ruby-minitest-unit, ruby-rspec
+* [frodsan](https://github.com/frodsan): coffeescript-jasmine, javascript-qunit-minispade
+* [florent2](https://github.com/florent2): ruby-minitest-spec 
+* [adrianmoya](https://github.com/adrianmoya): php-phpunit
+* [woakas](https://github.com/woakas): python-nose, python-unitest
 
 To contribute create a new folder named [programming language]-[testing framework] in lower case. 
 
