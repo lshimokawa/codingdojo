@@ -1,0 +1,9 @@
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\Tests.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\Tests.pdb
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\nunit.framework.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\Src.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\Src.pdb
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\bin\Debug\nunit.framework.xml
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\obj\Debug\Tests.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Tests\obj\Debug\Tests.pdb
