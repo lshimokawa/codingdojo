@@ -1,6 +1,11 @@
 # Coding Dojo
 Boilerplate code for starting Coding Dojos, each folder contains a unit testing framework configured with an initial test.
 
+## How to start
+`git clone https://github.com/lshimokawa/codingdojo.git`
+
+Select the unit testing framework of your preference. Check the README for instructions on how to run the test. Select the Code Kata and start coding!
+
 ## Code Katas
 Some sites to find Code Katas for a Coding Dojo:
 * [Coding Dojo Wiki](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
@@ -9,7 +14,7 @@ Some sites to find Code Katas for a Coding Dojo:
 * [12meses12katas](https://github.com/12meses12katas)
 
 ## Contributors
-* [lshimokawa](https://github.com/lshimokawa): javascript-jasmine, javascript-qunit, ruby-minitest-unit, ruby-rspec
+* [lshimokawa](https://github.com/lshimokawa): java-junit, javascript-jasmine, javascript-qunit, ruby-minitest-unit, ruby-rspec
 * [frodsan](https://github.com/frodsan): coffeescript-jasmine, javascript-qunit-minispade
 * [florent2](https://github.com/florent2): ruby-minitest-spec 
 * [adrianmoya](https://github.com/adrianmoya): php-phpunit
