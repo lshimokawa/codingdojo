@@ -1,0 +1,4 @@
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Src\bin\Debug\Src.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Src\bin\Debug\Src.pdb
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Src\obj\Debug\Src.dll
+C:\Users\JuanJose.Fuchs\Documents\GitHub\codingdojo\csharp-nunit\Src\obj\Debug\Src.pdb
