@@ -20,6 +20,7 @@ Some sites to find Code Katas for a Coding Dojo:
 * [adrianmoya](https://github.com/adrianmoya): php-phpunit
 * [woakas](https://github.com/woakas): python-nose, python-unitest
 * [JuanjoFuchs](https://github.com/JuanjoFuchs): csharp-nunit
+* [delucas](https://github.com/delucas): groovy-junit
 
 To contribute create a new folder named [programming language]-[testing framework] in lower case. 
 
