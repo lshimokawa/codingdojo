@@ -9,8 +9,8 @@ Install [jasmine-node](https://github.com/mhevery/jasmine-node):
 	sudo npm i -g jasmine-node
 
 Run tests:
- 	
- 	jasmine-node --coffee spec
+ 
+	jasmine-node --coffee spec
 
 ## Documentation
 * [CoffeeScript](http://coffeescript.org/)
