@@ -3,7 +3,7 @@
 ## How to run a test
 First download and install [Gradle](http://www.gradle.org/downloads).
 
-Then run: 
+Then run:
 `$ gradle test`
 
 # Documentation

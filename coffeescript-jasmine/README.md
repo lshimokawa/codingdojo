@@ -5,11 +5,11 @@ Thanks to @frodsan for this configuration and documentation.
 [Node.js](http://nodejs.org/#) is required.
 
 Install [jasmine-node](https://github.com/mhevery/jasmine-node):
-	
+
 	sudo npm i -g jasmine-node
 
 Run tests:
- 
+
 	jasmine-node --coffee spec
 
 ## Documentation

@@ -12,6 +12,7 @@ Some sites to find Code Katas for a Coding Dojo:
 * [CodeKata](http://codekata.pragprog.com/)
 * [Coders Dojo Code Kata Catalogue](http://content.codersdojo.org/code-kata-catalogue/)
 * [12meses12katas](https://github.com/12meses12katas)
+* [Rosatta Code](http://rosettacode.org/wiki/Category:Programming_Tasks): More than 600 programming tasks.
 
 ## Contributors
 * [lshimokawa](https://github.com/lshimokawa): java-junit, javascript-jasmine, javascript-qunit, ruby-minitest-unit, ruby-rspec
@@ -21,6 +22,7 @@ Some sites to find Code Katas for a Coding Dojo:
 * [woakas](https://github.com/woakas): python-nose, python-unitest
 * [JuanjoFuchs](https://github.com/JuanjoFuchs): csharp-nunit
 * [delucas](https://github.com/delucas): groovy-junit
+* [kleer]
 
 To contribute create a new folder named [programming language]-[testing framework] in lower case. 
 

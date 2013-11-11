@@ -3,7 +3,7 @@
 ## How to run a test
 First download and install [Maven](http://maven.apache.org/download.html).
 
-Then run: 
+Then run:
 `$ mvn test`
 
 # Documentation
