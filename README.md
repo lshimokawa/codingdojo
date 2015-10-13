@@ -8,7 +8,7 @@ Select the unit testing framework of your preference. Check the README for instr
 
 ## Code Katas
 Some sites to find Code Katas for a Coding Dojo:
-* [Coding Dojo Wiki](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
+* [Coding Dojo Wiki](http://codingdojo.org/cgi-bin/index.pl?WhatIsCodingDojo)
 * [CodeKata](http://codekata.pragprog.com/)
 * [Coders Dojo Code Kata Catalogue](http://content.codersdojo.org/code-kata-catalogue/)
 * [12meses12katas](https://github.com/12meses12katas)
