@@ -1,9 +1,9 @@
-#include <stdio.h>
-#include <strings.h>
+#include <string>
+using namespace std;
 
 
 class Calculator
 {
  public:
-  int add(char * value);
+  int add(string value);
 };
