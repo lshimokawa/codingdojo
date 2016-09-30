@@ -21,7 +21,7 @@ First install [Criterion](https://github.com/Snaipe/Criterion).
 
 `$ cmake --build .`
 
-`$ sudo cmake install`
+`$ sudo make install`
 
 ## How to run the first test in c++-criterion
 
