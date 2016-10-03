@@ -1,5 +1,5 @@
 #include <criterion/criterion.h>
-#include <calculator.hxx>
+#include <application.hpp>
 
 
 Test(test_suite, test_add_empty)

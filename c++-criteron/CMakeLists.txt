@@ -4,8 +4,8 @@
 cmake_minimum_required (VERSION 3.1.0)
 project (CALCULATOR)
 
-# Recurse into the "src" and "test_calc" subdirectories. This does not actually
+# Recurse into the "src" and "verif" subdirectories. This does not actually
 # cause another cmake executable to run. The same process will walk through
 # the project's entire directory structure.
 add_subdirectory (src)
-add_subdirectory (test_calc)
+add_subdirectory (verif)
