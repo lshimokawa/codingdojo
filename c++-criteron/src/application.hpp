@@ -1,5 +1,5 @@
 #ifndef APPLICATION_HPP
-#define
+#define APPLICATION_HPP
 
 #include <string>
 using namespace std;

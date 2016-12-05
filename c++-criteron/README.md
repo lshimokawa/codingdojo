@@ -25,13 +25,15 @@ First install [Criterion](https://github.com/Snaipe/Criterion).
 
 ## How to run the first test in c++-criterion
 
-`$ cd test_calc`
+`$ cd c++-criterion`
 
-`$ cmake ..  # Only needed ones.`
+`$ cmake .  # Only needed ones.`
+
+`$ cd verif`
 
 `$ make  # Needed if/when you change some code.`
 
-`$ ./test_calc`
+`$ ./tester`
 
     [====] Synthesis: Tested: 1 | Passing: 1 | Failing: 0 | Crashing: 0
 
