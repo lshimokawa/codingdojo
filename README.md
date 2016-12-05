@@ -23,6 +23,7 @@ Some sites to find Code Katas for a Coding Dojo:
 * [JuanjoFuchs](https://github.com/JuanjoFuchs): csharp-nunit
 * [delucas](https://github.com/delucas): groovy-junit
 * [kleer]
+* [thefreefox](https://github.com/thefreefox): c++-criterion
 
 To contribute create a new folder named [programming language]-[testing framework] in lower case. 
 
